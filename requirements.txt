@@ -6,7 +6,8 @@
 ###################################################
 
 ## Keras neural-network library ##
-keras
+keras==2.0.7
+tensorflow==1.2
 
 ## NumPy python library##
 numpy
